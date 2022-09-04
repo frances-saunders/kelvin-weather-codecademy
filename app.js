@@ -1,3 +1,5 @@
+//This script fulfills the project reqs for "Kelvin Weather" in Codecademy
+
 const kelvin = 293; //set variable of kelvin to 293
 
 let celsius = kelvin - 273; // celsius is kelvin minus 273
